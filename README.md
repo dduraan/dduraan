@@ -1,2 +1,8 @@
+# 👋 Hola, soy Victor Durán
 
-IT Technician con experiencia en soporte y administración de sistemas. Enfocado en desarrollar mi carrera en Cloud Computing (AWS), IaC y automatización. Aprendiendo y construyendo proyectos cloud para mejorar mis habilidades.
+Técnico IT orientado a **Cloud & AWS** | DevOps Jr | Automatización  
+
+## 🚀 Proyectos Destacados
+- [Bot de Telegram AWS](https://github.com/tuusuario/tu-proyecto)
+- [Portfolio Cloud](https://tuusuario.github.io/turepo/)
+
