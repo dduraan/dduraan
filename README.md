@@ -21,7 +21,7 @@
 
 ## 📫 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/victorduranlink)  
 - 💻 [GitHub](https://github.com/dduraan)  
 - ✉️ duranvictorinf@gmail.com  
 
