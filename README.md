@@ -1,8 +1,6 @@
 # 👋 Hola, soy Victor Durán
 
-Técnico IT orientado a **Cloud & AWS** | DevOps Jr | Automatización  
-
-## 🚀 Proyectos Destacados
-- [Bot de Telegram AWS](https://github.com/dduraan/AWS-EC2-BOT-TELEGRAM)
-- [Portfolio Cloud](https://tuusuario.github.io/turepo/)
-- [Terraform para despliegue automatizado en AWS](https://github.com/dduraan/IaC-Terraform-Despliegue-Instancias-EC2)
+ **Cloud & AWS** | **DevOps Jr** | **System Administrator & Linux**  
+Soy Técnico IT con 1 año y medio de experiencia en soporte técnico y administración de sistemas, enfocado en **Cloud Computing**, **AWS**, **DevOps** y **automatización de infraestructura**.  
+Apasionado por la **infraestructura como código**, la seguridad y el desarrollo de soluciones eficientes en la nube.  
+Me gusta mantener mis proyectos organizados, documentados y con un enfoque práctico en **soluciones cloud escalables y seguras**. Siempre buscando aprender nuevas tecnologías y mejorar mis habilidades en DevOps y automatización.
