@@ -9,6 +9,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
 
 ---
+## Certificaciones
+<img width="475" height="315" alt="image" src="https://github.com/user-attachments/assets/c97d740c-2eba-4830-a728-a8672eaa374c" />
+<a href="https://www.credly.com/badges/9fb20229-5e60-459d-a8ac-29688464874f/linked_in?t=t7y8gk">CLF-02 (Cloud Practitioner)</a>
 
 ## 🧰 Habilidades
 
