@@ -1,6 +1,6 @@
 # 👋 Victor Durán
 
-**Cloud & AWS | DevOps Jr | System Administrator & Linux**
+**Cloud & AWS | Solutions Architect in progress | System Administrator & Linux**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=FFFFFF)
